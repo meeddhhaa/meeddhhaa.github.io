@@ -1,0 +1,55 @@
+.jumbotron
+{
+    margin-bottom: 20vh;
+    padding: 5vh;
+    background-color: rgba(255, 255, 255, 0.829);
+}
+/* .medha */
+/* {
+    border-radius: 30px;
+} */
+.backlink
+{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.about{
+    padding-bottom: 10vh;
+}
+.profile_pic
+{
+ margin-bottom: 10vh;  
+ height: 10vh; 
+}
+.buttons{
+    padding-bottom: 5vh ;
+    
+} 
+.card_style
+{
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+}
+.about_para
+{
+
+}
+.slideshow
+{
+    height: 100px;
+}
+resp-sharing-button--email:hover,
+.resp-sharing-button--email:active {
+  background-color: #5e5e5e;
+  border-color: #5e5e5e;
+}
+ .edu_list
+{
+    padding-left: 20vh;
+    padding-top: 5vh;
+} 
+.carocaption{
+    background-color: rgba(0, 0, 0, 0.6);
+}
